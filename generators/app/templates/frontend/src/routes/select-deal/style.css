@@ -1,0 +1,12 @@
+.table{
+	width:80%;
+	background-color:rgb(220,220,220);
+	margin: 50px auto;
+}
+.row {
+	height:50px;
+	cursor: pointer;
+}
+.row:hover {
+		background-color:rgb(240,240,240);
+	}
