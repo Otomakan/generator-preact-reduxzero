@@ -1,2 +1,2 @@
-cd cors-everywhere-proxy && node index.js
-cd frontend && npm run dev
+corsproxy: cd cors-everywhere-proxy && node index.js
+react: cd frontend && npm run dev
